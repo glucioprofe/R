@@ -48,6 +48,18 @@ La medida de ocurrencia indica la frecuencia con la que aparece un determinado v
 
 **Ejemplo:** En una encuesta sobre preferencias de color, se registraron las siguientes ocurrencias: rojo: 15 veces, azul: 20 veces, verde: 10 veces.
 
+#### Frecuencia Absoluta
+
+La frecuencia absoluta es el número de veces que aparece un valor específico en un conjunto de datos.
+
+**Ejemplo:** En un conjunto de datos de edades de estudiantes, la frecuencia absoluta de la edad 20 años es 5, lo que significa que hay 5 estudiantes de 20 años en el conjunto de datos.
+
+#### Frecuencia Relativa
+
+La frecuencia relativa es el cociente entre la frecuencia absoluta de un valor y el tamaño total del conjunto de datos. Se expresa como un porcentaje y representa la proporción que representa un valor específico en el conjunto de datos.
+
+**Ejemplo:** Siguiendo el ejemplo anterior, si el tamaño total del conjunto de datos es 100, la frecuencia relativa de la edad 20 años sería del 5%, lo que significa que el 5% de los estudiantes tienen 20 años.
+
 ### Medida de Tendencia Central
 
 Las medidas de tendencia central, como la media, la mediana y la moda, proporcionan información sobre el valor típico o central de un conjunto de datos. Ayudan a entender dónde se concentran la mayoría de los datos.
