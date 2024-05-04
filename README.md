@@ -12,19 +12,18 @@
 
 En GitHub, puedes usar el Markdown estándar para crear títulos y subtitulares en tu archivo README. Si deseas crear un título que pueda ser contraído y expandido en GitHub, puedes usar Markdown extendido con la sintaxis de encabezado y detalles. Por ejemplo:
 
+
 <details>
-<summary>Titulo Contraíble</summary>
-
-Contenido que estará oculto hasta que se expanda el título.
-
-Puedes escribir aquí cualquier texto adicional, como ejemplos, explicaciones, etc.
-
+    <summary>
+        ## Variables
+    </summary>
+    <details>
+        <summary>
+        ### Cualitativas 
+        </summary>
+        Son variables que describen características o cualidades de un individuo u objeto, sin asignarles un valor numérico específico.
+    </details>
 </details>
-
-## Variables
-
-### Cualitativas 
-Son variables que describen características o cualidades de un individuo u objeto, sin asignarles un valor numérico específico.
 
 #### Nominal
 Las variables nominales son aquellas que representan categorías que no tienen un orden inherente. Los datos son simplemente etiquetas sin ningún tipo de jerarquía.
