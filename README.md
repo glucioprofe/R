@@ -13,17 +13,9 @@
 En GitHub, puedes usar el Markdown estándar para crear títulos y subtitulares en tu archivo README. Si deseas crear un título que pueda ser contraído y expandido en GitHub, puedes usar Markdown extendido con la sintaxis de encabezado y detalles. Por ejemplo:
 
 
-<details>
-    <summary>
-        ## Variables
-    </summary>
-    <details>
-        <summary>
-        ### Cualitativas 
-        </summary>
-        Son variables que describen características o cualidades de un individuo u objeto, sin asignarles un valor numérico específico.
-    </details>
-</details>
+## Variables
+### Cualitativas 
+Son variables que describen características o cualidades de un individuo u objeto, sin asignarles un valor numérico específico.
 
 #### Nominal
 Las variables nominales son aquellas que representan categorías que no tienen un orden inherente. Los datos son simplemente etiquetas sin ningún tipo de jerarquía.
@@ -90,12 +82,43 @@ La frecuencia acumulada relativa es la suma acumulativa de las frecuencias relat
 Las medidas de tendencia central, como la media, la mediana y la moda, proporcionan información sobre el valor típico o central de un conjunto de datos. Ayudan a entender dónde se concentran la mayoría de los datos.
 
 **Ejemplo:** En un conjunto de datos de edades de estudiantes, la media es 25 años, la mediana es 24 años y la moda es 22 años.
+#### Promedio
+
+El promedio es una medida estadística utilizada para representar un valor típico o central en un conjunto de datos. Existen diferentes tipos de promedio, incluyendo el promedio usual, el promedio ponderado y el promedio aritmético.
+
+##### Promedio Usual
+
+El promedio usual, también conocido como promedio simple o promedio no ponderado, se calcula sumando todos los valores en un conjunto de datos y dividiendo la suma por el número total de valores.
+
+##### Promedio Ponderado
+
+El promedio ponderado se calcula multiplicando cada valor en un conjunto de datos por su respectivo peso (o factor de ponderación), sumando los productos y dividiendo la suma total de los pesos.
+
+##### Promedio Aritmético
+
+El promedio aritmético es el tipo más común de promedio y se refiere al promedio usual o no ponderado. Se calcula sumando todos los valores en un conjunto de datos y dividiendo la suma por el número total de valores.
+
+#### Mediana
+
+La mediana es una medida estadística que representa el valor central en un conjunto de datos cuando estos están ordenados de menor a mayor. Si el conjunto de datos tiene un número impar de elementos, la mediana es el valor en la posición central. Si el conjunto de datos tiene un número par de elementos, la mediana es el promedio de los dos valores centrales.
+
+#### Moda
+
+La moda es el valor que aparece con mayor frecuencia en un conjunto de datos. Puede haber una o más modas en un conjunto de datos, o puede que no haya ninguna si todos los valores tienen la misma frecuencia.
+
+#### Media
+
+La media, también conocida como promedio aritmético, es la suma de todos los valores en un conjunto de datos dividida por el número total de valores. Es una medida de tendencia central que representa el valor típico en un conjunto de datos.
+
+
 
 ### Medida de Variabilidad
 
 La medida de variabilidad, como la desviación estándar o el rango intercuartílico, indica cuánto se dispersan los datos alrededor de la medida de tendencia central. Es útil para comprender la heterogeneidad o dispersión de los datos.
 
 **Ejemplo:** En un conjunto de datos de alturas de árboles, la desviación estándar es 10 cm, lo que indica que las alturas varían en promedio alrededor de 10 cm de la media.
+
+
 
 ### Medida de Localización
 
