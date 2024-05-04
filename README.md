@@ -9,6 +9,18 @@
 - Gonzalo Andrés Lucio.  
   Email: gonzaloandreslucio@gmail.com
 
+
+En GitHub, puedes usar el Markdown estándar para crear títulos y subtitulares en tu archivo README. Si deseas crear un título que pueda ser contraído y expandido en GitHub, puedes usar Markdown extendido con la sintaxis de encabezado y detalles. Por ejemplo:
+
+<details>
+<summary>Titulo Contraíble</summary>
+
+Contenido que estará oculto hasta que se expanda el título.
+
+Puedes escribir aquí cualquier texto adicional, como ejemplos, explicaciones, etc.
+
+</details>
+
 ## Variables
 
 ### Cualitativas 
