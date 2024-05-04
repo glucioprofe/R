@@ -9,6 +9,34 @@
 - Gonzalo Andrés Lucio.  
   Email: gonzaloandreslucio@gmail.com
 
+## Variables
+
+### Cualitativas 
+Son variables que describen características o cualidades de un individuo u objeto, sin asignarles un valor numérico específico.
+
+#### Nominal
+Las variables nominales son aquellas que representan categorías que no tienen un orden inherente. Los datos son simplemente etiquetas sin ningún tipo de jerarquía.
+
+**Ejemplo:** Género (masculino, femenino), Estado Civil (soltero, casado, divorciado).
+
+#### Ordinal
+Las variables ordinales representan categorías que tienen un orden inherente. Los datos pueden ser ordenados o clasificados.
+
+**Ejemplo:** Nivel de educación (primaria, secundaria, universitaria), Clasificación socioeconómica (bajo, medio, alto).
+
+### Cuantitativas 
+Son variables que representan cantidades numéricas medibles.
+
+#### Discreto
+Las variables discretas toman valores numéricos finitos o contables. Estos valores son distintos y separados, no pueden tomar valores intermedios.
+
+**Ejemplo:** Número de hijos (1, 2, 3, ...), Cantidad de estudiantes en una clase (20, 30, 40).
+
+#### Continuo
+Las variables continuas pueden tomar un número infinito de valores dentro de un rango específico. Pueden ser medidas con cualquier grado de precisión.
+
+**Ejemplo:** Altura (1.65 m, 1.70 m, 1.75 m, ...), Peso (65 kg, 66 kg, 67 kg, ...).
+
 
 ## Medidas de la Estadística Exploratoria
 
