@@ -60,6 +60,20 @@ La frecuencia relativa es el cociente entre la frecuencia absoluta de un valor y
 
 **Ejemplo:** Siguiendo el ejemplo anterior, si el tamaño total del conjunto de datos es 100, la frecuencia relativa de la edad 20 años sería del 5%, lo que significa que el 5% de los estudiantes tienen 20 años.
 
+#### Frecuencia Acumulada
+
+La frecuencia acumulada es la suma acumulativa de las frecuencias absolutas de todos los valores anteriores en un conjunto de datos ordenados. Es útil para determinar el número total de observaciones hasta cierto punto en la distribución de los datos.
+
+**Ejemplo:** En un conjunto de datos de edades de estudiantes ordenado de menor a mayor, si las frecuencias absolutas de las edades son 5, 8, 12, 6, respectivamente, entonces la frecuencia acumulada sería 5 para la primera edad, 5 + 8 = 13 para la segunda edad, 5 + 8 + 12 = 25 para la tercera edad, y así sucesivamente.
+
+
+#### Frecuencia Acumulada Relativa
+
+La frecuencia acumulada relativa es la suma acumulativa de las frecuencias relativas de todos los valores anteriores en un conjunto de datos ordenados. Es útil para determinar la proporción acumulativa de observaciones hasta cierto punto en la distribución de los datos.
+
+**Ejemplo:** En un conjunto de datos de edades de estudiantes ordenado de menor a mayor, si las frecuencias relativas de las edades son 0.1, 0.2, 0.3, 0.4, respectivamente, entonces la frecuencia acumulada relativa sería 0.1 para la primera edad, 0.1 + 0.2 = 0.3 para la segunda edad, 0.1 + 0.2 + 0.3 = 0.6 para la tercera edad, y así sucesivamente.
+
+
 ### Medida de Tendencia Central
 
 Las medidas de tendencia central, como la media, la mediana y la moda, proporcionan información sobre el valor típico o central de un conjunto de datos. Ayudan a entender dónde se concentran la mayoría de los datos.
